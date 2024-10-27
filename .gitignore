@@ -1,0 +1,17 @@
+# Archivos y carpetas de Python
+__pycache__/
+*.py[cod]
+*.so
+
+# Archivos de entorno virtual
+venv/
+ENV/
+env/
+
+# Archivos de configuración del sistema
+.DS_Store
+Thumbs.db
+
+# Archivos de caché y logs
+*.log
+*.sqlite3
